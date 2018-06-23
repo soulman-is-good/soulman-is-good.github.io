@@ -19,10 +19,12 @@ description: >-
   Maxim Savin, Senior Software Developer
   Capable of doing impossible.
   I can write application that you want.
-baseurl: ""
+baseurl: "/"
 url: "https://soulman.kz"
 #twitter_username: jekyllrb
 github_username:  soulman-is-good
+show_downloads: false
+google_analytics:
 
 # Build settings
 markdown: kramdown
